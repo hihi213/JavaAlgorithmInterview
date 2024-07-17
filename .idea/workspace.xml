@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7546c9bd-c9c7-480a-8e35-a8b97650a901" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/week1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_processing/ReorderDataInLogFiles937.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaAlgorithmInterview/string_processing/ReverseString344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaAlgorithmInterview/string_processing/ReverseString344.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -38,6 +39,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.ReorderDataInLogFiles937 (1).executor": "Run",
+    "Application.ReorderDataInLogFiles937 (2).executor": "Run",
+    "Application.ReorderDataInLogFiles937 (3).executor": "Run",
+    "Application.ReorderDataInLogFiles937.executor": "Run",
+    "Application.ReverseString344.executor": "Run",
+    "Application.ValidPalindrome125.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
@@ -50,6 +58,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,46 +73,97 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/session1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="string_processing" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.ReverseString344">
+    <configuration name="ReorderDataInLogFiles937 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_processing.ReorderDataInLogFiles937" />
       <module name="JavaAlgorithmInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="ReorderDataInLogFiles937 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_processing.ReorderDataInLogFiles937" />
       <module name="JavaAlgorithmInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="ReorderDataInLogFiles937 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_processing.ReorderDataInLogFiles937" />
       <module name="JavaAlgorithmInterview" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReorderDataInLogFiles937" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_processing.ReorderDataInLogFiles937" />
+      <module name="JavaAlgorithmInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_processing.ReverseString344" />
+      <module name="JavaAlgorithmInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReverseString344" />
+        <item itemvalue="Application.ReorderDataInLogFiles937" />
+        <item itemvalue="Application.ReorderDataInLogFiles937 (3)" />
+        <item itemvalue="Application.ReorderDataInLogFiles937 (2)" />
+        <item itemvalue="Application.ReorderDataInLogFiles937 (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc86fed2-c127-45cd-8ef6-d85d8f40e354" name="Changes" comment="" />
+      <changelist id="7546c9bd-c9c7-480a-8e35-a8b97650a901" name="Changes" comment="" />
       <created>1720973299233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
