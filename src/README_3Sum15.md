@@ -66,7 +66,7 @@
         - 그렇게 끝까지 다 해보고 return 배열
 
 
-- -> 최최종흐름
+- -> ~~최최종흐름~~ (음수인 index는 없다 음수인경우 다른 배열로가게 처리하면 되긴함..)
     1. Map에다가 기존 배열을 저장
         - index=0; minus=0;
         - 음수라면 minus를 증가시킨다
@@ -89,3 +89,30 @@
             - 만약 point가 끝에 도달하면 count 증가
             - 만약 point가 끝이 아니라면 ++point 이때 map.length-1 보다 작아야
         - 그렇게 끝까지 다 해보고 return 배열
+-----
+- -> 찐막 (배열이 아니라 List에 저장)
+- 아니 list에 contain이 있었네? 이러면 말이 다르지 
+    1. List에다가 기존배열을 저장
+       - minus=0,index=0; zero=0;
+       - 음수라면 minus 증가시킨다
+       - 만약에 list.contain(nums[i])
+         - 만약에 0이라면 zero 증가
+         - 만약에 0이 아니라면
+           - repeat.add(nums[i]);
+       - 아니라면 list.add(nums[i])
+    2. 모든 요소를 저장후 
+       - if(zero>2){[0,0,0] 추가}
+       - repeat 순회
+            - if(number.contains(repeat[i])&&number.contains(-2*repeat[i]))
+              - [repeat[i],repeat[i],-2*repeat[i]]추가
+       - if(minus==0){return result}
+    3. 중복되지 않은 두 수의 조합 찾기
+       - number.contains[number[left]+number[right]]
+         - 저장
+       - right가 끝이라면 right0 left++
+-----
+- -> 찐막
+- 아니 3요소가 모두 달라야하네..?
+       
+
+
